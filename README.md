@@ -12,7 +12,7 @@
 ---
 
 ### 🛠️ Skills
-- **Programming:** Python  
+- **Programming:** Python, Java 
 - **Concepts:** Conditional statements, loops, functions, file handling  
 - **Tools:** Git, GitHub, VS Code , Jupiter 
 Notebook 
