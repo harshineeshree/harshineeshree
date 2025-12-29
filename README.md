@@ -7,7 +7,7 @@
 - 🎓 Currently studying in 5th semester  
 - 🐍 Learning Python , Java programming  
 - 💻 Exploring basic projects and improving coding skills  
-- 🌟 Interested in building simple applications like ATM system, calculators, and small utilities
+- 🌟 Interested in building simple applications like ATM system, calculators, and small utilities,etc
 
 ---
 
@@ -33,7 +33,6 @@ Beginner-friendly Java project using arrays and control structures.
 - Simple login system  
 - File handling examples
 #### 🔹 Basic Java Program
-🔹 Basic Java Programs
 - Calculator using Scanner
 - GCD of two numbers
 - Perfect number check
