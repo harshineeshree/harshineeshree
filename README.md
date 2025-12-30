@@ -7,14 +7,14 @@
 - 🎓 Currently studying in 5th semester  
 - 🐍 Learning Python , Java programming  
 - 💻 Exploring basic projects and improving coding skills  
-- 🌟 Interested in building simple applications like ATM system, calculators, and small utilities,etc
+- 🌟 Interested in building simple applications like Managing System(ATM, Supermarket, Ticket Booking),  calculators, and small utilities,etc
 
 ---
 
 ### 🛠️ Skills
 - **Programming:** Python, Java 
 - **Concepts:** Conditional statements, loops, functions, file handling  
-- **Tools:** Git, GitHub, VS Code , Jupiter 
+- **Tools:** GitHub, VS Code , Jupiter 
 Notebook 
 ---
 
@@ -24,6 +24,8 @@ Notebook
 A simple ATM project using nested if-else for balance check, withdraw, deposit, and pin verification.
 #### 🔹 Supermarket (Java)
 Beginner-friendly Java project using arrays and control structures.
+#### 🔹 Ticket Booking (Java)
+An easy Java program showcasing basic object-oriented concepts.
 
 #### 🔹 Basic Python Programs
 - Calculator  
