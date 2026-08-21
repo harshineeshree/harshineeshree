@@ -1,25 +1,26 @@
-<h1 align="center">Hi 👋, I'm Harshinee Shree</h1>
+<h1 align="center">Hi , I'm Harshinee Shree</h1>
 <h3 align="center">B.Tech – Artificial Intelligence & Data Science Student</h3>
 
 ---
 
-### 🌱 About Me
-- 🎓 Currently studying in 5th semester  
-- 🐍 Learning Python , Java programming  
-- 💻 Exploring basic projects and improving coding skills  
-- 🌟 Interested in building simple applications like Managing System(ATM, Supermarket, Ticket Booking),  calculators, and small utilities,etc
+###  About Me
+-  Currently studying in 5th semester  
+-  Learning Python , Java programming  
+-  Exploring basic projects and improving coding skills  
+-  Interested in building simple applications like Managing System(ATM, Supermarket, Ticket Booking),  calculators, and small utilities,etc
 
 ---
 
-### 🛠️ Skills
-- **Programming:** Python, Java 
-- **Concepts:** Conditional statements, loops, functions, file handling  
+###  Skills
+- **Programming:** Python, Java , javascript
+- **Concepts:** Conditional statements, loops, functions, file handling 
 - **Tools:** GitHub, VS Code , Jupiter 
 Notebook 
 ---
 
-### 📌 My Projects
-
+###  My Projects
+#### 🔹 Dental Clinic Booking System
+A full-stack dental clinic booking platform designed to simplify appointment scheduling and improve the digital experience for both patients and clinic administrators.
 #### 🔹 ATM Management System (Python)
 A simple ATM project using nested if-else for balance check, withdraw, deposit, and pin verification.
 #### 🔹 Supermarket (Java)
@@ -44,7 +45,7 @@ An easy Java program showcasing basic object-oriented concepts.
 
 ---
 
-### 📈 My Learning Goal
+###  My Learning Goal
 I want to learn:
 - Python modules
 - Java modules
@@ -54,7 +55,7 @@ I want to learn:
 
 ---
 
-### 📬 Contact
+###  Contact
 - 📧 Email: harshineeshreeg@gmail.com
 - LinkedIn : https://www.linkedin.com/in/harshinee-shree-g-7b59732a5
 ---
